@@ -23,15 +23,16 @@ The Text Editor App is an application built using .NET technology, allowing user
 
 ## Screenshots
 
-![Register Page](images/1.png)
+
 
 
 ![Text Editor](images/2.png)
 
-![Text Editor](images/3.png)
+
 
 ![Text Editor](images/4.png)
 
 ![Text Editor](images/5.png)
-
+![Register Page](images/1.png)
+![Text Editor](images/3.png)
 
